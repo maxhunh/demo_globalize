@@ -34,6 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 gem 'globalize', '~> 5.0.0'
+gem 'globalize-accessors'
 
 
 group :development, :test do
